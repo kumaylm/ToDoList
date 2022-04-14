@@ -1,7 +1,7 @@
 # ToDo List
 A ToDo list website.
 
-## Languages Used
+## Languages Implemented
 - HTML
 - CSS
 - JavaScript
