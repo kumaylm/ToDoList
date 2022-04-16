@@ -1,6 +1,5 @@
 # ToDo List
-A ToDo list website.
-
+A to do list website where you can add, update (status, title), and/or delete tasks.
 ## Languages Implemented
 - HTML
 - CSS
